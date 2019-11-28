@@ -13,8 +13,8 @@ public class HiveJdbcMain
 {
 	public static final String DB_DRIVER = "org.apache.hive.jdbc.HiveDriver";
 	public static final String DB_URL = "jdbc:hive2://localhost:10000/MovieRecommendation";
-	public static final String DB_USER = "sunbeam";
-	public static final String DB_PASSWORD = "";
+	public static final String DB_USER = "YourUsernameOnHive";
+	public static final String DB_PASSWORD = "YourPasswordOfHive";
 
 	static 
 	{

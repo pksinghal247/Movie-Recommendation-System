@@ -1,5 +1,6 @@
-package pk.singhal;
+# JDBC Hive Connectivity
 
+```java
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -65,7 +66,7 @@ public class HiveJdbcMain
 	}
 }
 
-
+```
 
 
 
